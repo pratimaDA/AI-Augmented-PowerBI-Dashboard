@@ -12,7 +12,7 @@ The project uses **4 CSV files** as the data source:
 * **Customer.csv** – Customer information and attributes
 * **Product.csv** – Product details and categories
 * **Sales.csv** – Transactional sales data
-* **Date.csv** – Calendar table for time-based analysis and DAX calculations
+* **calendar.csv** – Calendar table for time-based analysis and DAX calculations
 
 Then after getting data from the above sources , what are the actions performed by Claude ? Prompts given ? Result of each prompts ?
 What is the work done manually ? 
