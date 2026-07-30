@@ -77,14 +77,41 @@ Claude also generated a clean summary of the semantic model, including table nam
   <img width="815" height="342" alt="Semantic model summary" src="https://github.com/user-attachments/assets/c10d922a-cb29-47a5-9e7f-475744906a39" />
 </p>
 
+## Sales View
 
+### DAX Measures Generated with Claude MCP
 
+All DAX measures used in the **Sales View** were generated using **Claude's MCP integration** with **Power BI Desktop**. Claude assisted in creating business metrics while leveraging the existing semantic model.
 
+<p align="center">
+  <img width="326" height="282" alt="DAX Measures" src="https://github.com/user-attachments/assets/13443c0d-8da8-4661-8d43-e136d1cefa5b" />
+</p>
 
-Then after getting data from the above sources , what are the actions performed by Claude ? Prompts given ? Result of each prompts ?
-What is the work done manually ? 
+### Measure Validation
 
+In addition to generating DAX measures, Claude validated the calculated values and provided mathematical explanations for the results. This helped verify the correctness of the business logic and ensured that the measures aligned with the underlying data model.
 
+<p align="center">
+  <img width="805" height="442" alt="DAX Validation" src="https://github.com/user-attachments/assets/d5b736ad-f88b-465e-997f-98ff7565dd0c" />
+</p>
 
+### Sales Dashboard
 
+Using the generated DAX measures, I developed an interactive **Sales View** in Power BI to analyze key business metrics, monitor sales performance, and provide actionable insights through dynamic visualizations.
+
+<p align="center">
+  <img width="1243" height="700" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/ffad5138-1047-4a7a-9e83-5344be7a2eca" />
+</p>
+
+---
+
+## Product View
+
+> 🚧 **Coming Soon**
+
+---
+
+## Customer View
+
+> 🚧 **Coming Soon**
 
