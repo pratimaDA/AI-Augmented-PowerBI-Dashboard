@@ -105,9 +105,19 @@ Using the generated DAX measures, I developed an interactive **Sales View** in P
 
 ---
 
-## Product View
+### Product Dashboard
 
-> 🚧 **Coming Soon**
+Using all the key measures created by Claude MCP, I developed an interactive **Product View** in Power BI to analyze Product's Core Performance, Profitability, Prioritization and Trend & Life Cycle visuals to give a clear picture of the products.
+
+<img width="1247" height="700" alt="image" src="https://github.com/user-attachments/assets/9dc779f5-4377-4fe7-af48-88432b4d4b75" />
+
+Measures Created by Claude MCP :
+
+<img width="317" height="551" alt="image" src="https://github.com/user-attachments/assets/498521c0-a3bd-4058-8831-8c0b55d2af87" />
+
+The best part is that Claude explains each calculation behind a measure that helped to clear my all whys. For example in below measure calculation, it explained why the Average discount % is calculate in this particular way which gave me a good business side perspective.
+
+<img width="970" height="712" alt="image" src="https://github.com/user-attachments/assets/70c9be91-98f7-4260-b3e7-786f2de1e559" />
 
 ---
 
