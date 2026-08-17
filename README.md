@@ -149,7 +149,7 @@ The Customer View includes two categories of customer performance metrics:
 
 ---
 
-## 📊 Customer View Dashboard
+## 📊 Customer Dashboard
 
 <img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/0237c1ff-888c-4331-9820-13a0481b646d" />
 
