@@ -123,5 +123,34 @@ The best part is that Claude explains each calculation behind a measure that hel
 
 ## Customer View
 
-> 🚧 **Coming Soon**
+## 👥 Customer View
 
+The Customer View includes two categories of customer performance metrics:
+
+### 📊 Basic Customer Performance Metrics
+- New Customers
+- Repeated Customers
+- Average Purchase Frequency
+- Customer Lifetime Value (CLV)
+
+### 📈 Advanced Customer Performance Metrics
+- RFM Segment
+- Churn Risk
+- Average Discount % for Each Customer
+- Revenue % of Total Customers by City and Segment
+
+---
+
+## 🧮 Measures Created Using Claude MCP
+
+<img width="362" height="620" alt="image" src="https://github.com/user-attachments/assets/3a59a431-367b-46b1-8ccc-242fbabaaff1" />
+
+**Note:** All the measures were created by providing a single simple prompt to Claude. It generated them in a well-structured format, as shown above. It also automatically created folders for **Customer Analysis** and **RFM Segmentation** without those being explicitly mentioned in the prompt.
+
+---
+
+## 📊 Customer View Dashboard
+
+<img width="1206" height="682" alt="image" src="https://github.com/user-attachments/assets/0237c1ff-888c-4331-9820-13a0481b646d" />
+
+>
