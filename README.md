@@ -159,4 +159,4 @@ The Customer View includes two categories of customer performance metrics:
 
 The project will continue to evolve with additional features and enhancements.
 
-**Coming Soon...**
+> 🚧 **Coming Soon...**
